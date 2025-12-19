@@ -11,6 +11,10 @@ This system uses a salon reservation case study that allows customers to book ap
 
 ---
 
+## 🛠️ Use Case Diagram
+
+![alt text](https://github.com/rizalfahlevi8/Reservation-Multiplatform/blob/main/use-case-diagram.png?raw=true)
+
 ## 🧩 System Architecture
 
 ```
