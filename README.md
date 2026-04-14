@@ -163,7 +163,7 @@ The Laravel backend provides APIs for the Flutter mobile app:
 
 ## 👤 Author
 
-**Rizal Fahlevi**
+**Muhammad Rizal Fahlevi**
 
 - GitHub: [@rizalfahlevi8](https://github.com/rizalfahlevi8)
 
